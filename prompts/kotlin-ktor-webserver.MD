@@ -9,10 +9,6 @@ We are working inside the **Cursor IDE**, and the currently open file should alw
 - adapters → incoming (e.g., HTTP REST) and outgoing (e.g., DB, external APIs) 
 - infrastructure → framework-specific or third-party setup (Ktor engine, DI, database config)
 
-markdown
-Copy
-Edit
-
 🎯 Initial project requirements:
 - Use **Ktor** (latest stable version) for the web framework
 - Use **Gradle Kotlin DSL** for build scripts
